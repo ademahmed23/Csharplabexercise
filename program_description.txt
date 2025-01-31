@@ -1,0 +1,8 @@
+This C# program, 'Array Operation', is a Windows Forms application that allows users to perform basic operations on a list of numbers entered as comma-separated values. 
+
+Objectives:
+1. User Input Handling: Users enter a list of numbers in a text box.
+2. Mathematical Operations: Find Min, Max, Average, Sum, and Count.
+3. Sorting and Reversing: Displays the sorted and reversed version of the numbers.
+4. User-Friendly Interface: Labels and text boxes display results clearly.
+5. Error Handling: Ensures users enter only valid numeric values.

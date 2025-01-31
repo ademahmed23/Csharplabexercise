@@ -1,0 +1,153 @@
+C:\Users\abbed\Desktop\LastYear\C#\Window\bin\Debug\net9.0-windows\Window.exe
+C:\Users\abbed\Desktop\LastYear\C#\Window\bin\Debug\net9.0-windows\Window.deps.json
+C:\Users\abbed\Desktop\LastYear\C#\Window\bin\Debug\net9.0-windows\Window.runtimeconfig.json
+C:\Users\abbed\Desktop\LastYear\C#\Window\bin\Debug\net9.0-windows\Window.dll
+C:\Users\abbed\Desktop\LastYear\C#\Window\bin\Debug\net9.0-windows\Window.pdb
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.AssemblyInfoInputs.cache
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.AssemblyInfo.cs
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.csproj.CoreCompileInputs.cache
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.sourcelink.json
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.dll
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\refint\Window.dll
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.pdb
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\Window.genruntimeconfig.cache
+C:\Users\abbed\Desktop\LastYear\C#\Window\obj\Debug\net9.0-windows\ref\Window.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Window.exe
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Window.deps.json
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Window.runtimeconfig.json
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Window.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Window.pdb
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.AssemblyInfoInputs.cache
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.AssemblyInfo.cs
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.csproj.CoreCompileInputs.cache
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.dll
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\refint\Window.dll
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.pdb
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.genruntimeconfig.cache
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\ref\Window.dll
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.csproj.AssemblyReference.cache
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.barcodes.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.forms.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.io.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.kernel.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.layout.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.pdfa.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.pdfua.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.sign.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.styledxmlparser.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.svg.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itext.commons.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\adema\Desktop\Window\obj\Debug\net9.0-windows\Window.csproj.Up2Date
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\BouncyCastle.Crypto.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\Ubiety.Dns.Core.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\ZstdNet.dll
+C:\Users\adema\Desktop\Window\bin\Debug\net9.0-windows\itextsharp.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Window.exe
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Window.deps.json
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Window.runtimeconfig.json
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Window.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Window.pdb
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\BouncyCastle.Crypto.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.barcodes.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.forms.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.io.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.kernel.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.layout.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.pdfa.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.pdfua.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.sign.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.styledxmlparser.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.svg.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itext.commons.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\itextsharp.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Ubiety.Dns.Core.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\ZstdNet.dll
+C:\Users\adema\Desktop\WindowForm\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.csproj.AssemblyReference.cache
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.AssemblyInfoInputs.cache
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.AssemblyInfo.cs
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.csproj.CoreCompileInputs.cache
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.csproj.Up2Date
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.dll
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\refint\Window.dll
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.pdb
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\Window.genruntimeconfig.cache
+C:\Users\adema\Desktop\WindowForm\obj\Debug\net9.0-windows\ref\Window.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Window.exe
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Window.deps.json
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Window.runtimeconfig.json
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Window.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Window.pdb
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\BouncyCastle.Crypto.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.barcodes.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.forms.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.io.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.kernel.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.layout.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.pdfa.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.pdfua.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.sign.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.styledxmlparser.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.svg.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itext.commons.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\itextsharp.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Ubiety.Dns.Core.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\ZstdNet.dll
+C:\Users\adema\Desktop\Lab Exercise\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.csproj.AssemblyReference.cache
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.AssemblyInfoInputs.cache
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.AssemblyInfo.cs
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.csproj.CoreCompileInputs.cache
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.csproj.Up2Date
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.dll
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\refint\Window.dll
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.pdb
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\Window.genruntimeconfig.cache
+C:\Users\adema\Desktop\Lab Exercise\obj\Debug\net9.0-windows\ref\Window.dll
